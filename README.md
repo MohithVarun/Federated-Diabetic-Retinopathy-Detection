@@ -1,4 +1,4 @@
-# A Comparative Federated Deep Learning Approach for Multi-Class Diabetic Retinopathy Detection
+# A Federated Deep Learning Approach for Multi-Class Diabetic Retinopathy Detection.
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?logo=tensorflow)
